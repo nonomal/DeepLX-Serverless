@@ -1,5 +1,14 @@
 # Project
 README.md
-LICENSE
+test.js
+test_post.js
+src/translate_old.js
+node_modules/
+
+# git
+.git/
+.github/
 .gitignore
+
+# vercel
 vercel.json

@@ -3,6 +3,7 @@
 
 # backup
 *.bak
+src/translate_old.js
 
 # Logs
 logs
@@ -17,3 +18,5 @@ node_modules/
 
 yarn.lock
 package-lock.json
+
+.env
